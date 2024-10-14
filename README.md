@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drnamita
 - 👀 I’m interested in data analysis for various projects using health data.
 - 🌱 I’m currently learning -R, calculus.
-- I have used SPSS, SQL/Oracle.
+- I have used SPSS, SQL/Oracle and R Basic
 - 💞️ I’m looking to collaborate on research projects. i wish to gain more skills in analytics.
 - - 📫 How to reach me ...dr.namita9670@gmail.com
 
