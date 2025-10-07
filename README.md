@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @drnamita
-- 👀 I’m interested in data analysis for various projects using health data.
-- 🌱 I’m currently learning -R, calculus.
-- I have used SPSS, SQL/Oracle and R Basic
-- 💞️ I’m looking to collaborate on research projects. i wish to gain more skills in analytics.
+- 👀 I’m interested in data analysis in healthcare and public health data.
+- 🌱 I’m efficient in using R, SAS, SQL, Python, SPSS
+- I also work on EpiInfo, GIS, 3D excel Maps, ARcGIS for data visulaization
+  
+- 💞️ I’m looking to collaborate on research projects an implement a blend of data science, medical and publc health knowledge and experiences.
 - - 📫 How to reach me ...dr.namita9670@gmail.com
 
 <!---
